@@ -1,0 +1,22 @@
+.content-wrapper-element-one {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
+
+.content-wrapper-element-one .wrapper-element-texts .element-text-h3 h3 {
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.content-wrapper-element-one .wrapper-element-texts .element-texts-paragraph {
+    margin: 26px 0;
+}
+
+.content-wrapper-element-one .element-img {
+    width: 100%;
+}
+
+.content-wrapper-element-one .element-img img {
+    width: 400px;
+}
