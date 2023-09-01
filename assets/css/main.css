@@ -1,0 +1,147 @@
+/* !: SOURCE CODE PBEMITS */
+/* *: CONTENT MAIN */
+.content-wrapper--flex,
+.content-wrapper-element-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content-section-four 
+.wrapper-element-texts
+.element-text_heading,
+.element-text_hd {
+    font-family: 'PT Serif Caption', serif;
+    font-size: 25px;
+    color: var(--color-texts);
+    font-weight: 500;
+}
+#content-section-four 
+.wrapper-element-texts
+.element-texts_paragrah,
+.element-texts_pgh {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: normal;
+    font-style: normal;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin: 26px 0;
+    color: var(--color-texts);
+}
+
+#content-section-four
+.content-wrapper-element-one
+.wrapper-element-two
+.wrapper-element-image
+.element-img,
+.element-img__all {
+    width: 400px;
+    height: 400px;
+}
+/* ^: FOOTER MAIN */
+/* ?: FOOTER WRAPPER TEXTS */
+#footer-main
+.footer-content-wrapper-one
+.footer-wrapper-texts
+.footer-wrapper-texts_paragrah {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: normal;
+    font-style: normal;
+    margin: 26px 0;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: var(--color-texts);
+}
+#footer-main
+.footer-content-wrapper-one
+.footer-wrapper-texts {
+    padding: 26px;
+}
+/* ?: FOOTER WRAPPER BUTTON */
+.footer-content-wrapper-two
+.footer-wrapper-button {
+    margin-top: 50px;
+}
+.footer-content-wrapper-two
+.footer-wrapper-button
+.footer-wrapper_btn {
+    text-decoration: none;
+    font-size: 24px;
+    width: 600px;
+    height: 54px;
+    /* padding: 10px 20px; */
+    line-height: 24px;
+    border-radius: 35px;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #000;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: var(--color-texts);
+}
+.footer-content-wrapper-two
+.footer-wrapper-button
+.footer-wrapper_btn:hover {
+    background-color: rgba(255, 43, 43, 0.507);
+}
+.footer-content-wrapper-two
+.footer-wrapper-button
+.footer-logo_btn {
+    margin-right: 10px;
+}
+/* ?: FOOTER WRAPPER INFOMATION */
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.footer-wrapper_ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    margin-top: 60px;
+}
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.footer-wrapper_ul li {
+    list-style: none;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.css-a-firt {
+    margin: 15px 25px 15px 48px !important;
+}
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.footer-wrapper_ul li span {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    line-height: 1.6;
+    font-weight: 300;
+    color: var(--color-texts);
+}
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.footer-wrapper_ul li a {
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    color: var(--color-texts);
+    font-size: 14px;
+}
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.footer-wrapper_ul
+.css-li-fird {
+    font-size: 14px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.footer-content-wrapper-three
+.footer-wrapper-infomation
+.footer-wrapper_ul
+.css-a-bold {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 16px 25px;
+}
+/* !: SOURCE CODE PBEMITS */
