@@ -1,0 +1,49 @@
+/* !: SOURCE CODE ADAM HOANG */
+#content-section-three
+.content-wrapper-element-one,
+#content-section-three
+.content-wrapper-element-two,
+#content-section-three
+.content-wrapper-element-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#content-section-three
+.content-wrapper-element-four {
+    text-align: center;
+}
+#content-section-three 
+.wrapper-element-texts
+.element-texts_heading {
+    font-size: 25px;
+    font-weight: 500;
+    color: var(--color-texts);
+    font-family: 'PT Serif Caption', serif;
+}
+#content-section-three 
+.wrapper-element-texts
+.element-texts_paragrah {
+    margin: 26px 0;
+    font-size: 18px;
+    font-weight: 300;
+    color: var(--color-texts);
+    font-family: 'Noto Sans JP', sans-serif;
+}
+#content-section-three
+.wrapper-element-image
+.element-img {
+    width: 400px;
+    height: 400px;
+}
+#content-section-three
+.content-wrapper-element-four
+.wrapper-element-one {
+    margin-bottom: 16px;
+}
+#content-section-three
+.content-wrapper-element-four
+.element-texts_heading {
+    margin-top: 16px;
+}
+/* !: SOURCE CODE ADAM HOANG */
