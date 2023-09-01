@@ -4,87 +4,126 @@
     align-items: center;
     justify-content: center;
 }
+
 .content-section-two .content-wrapper-element-one .wrapper-element-texts .element-text-h3 h3 {
     font-size: 25px;
     font-weight: 400;
 }
+
 .content-section-two .content-wrapper-element-one .wrapper-element-texts .element-texts-paragraph {
     margin: 26px 0;
 }
+
 .content-section-two .content-wrapper-element-one .element-img {
     width: 100%;
 }
+
 .content-section-two .content-wrapper-element-one .element-img img {
     width: 400px;
 }
 /* ?END WRAPPER ONE */
+
+
+
 /* ?WRAPPER TWO */
+
 .content-section-two .content-wrapper-element-two {
     display: flex;
     align-items: center;
     justify-content: center;
+   
 }
+
 .content-section-two .content-wrapper-element-two .element-img {
     width: 100%;
 }
+
 .content-section-two .content-wrapper-element-two .element-img img {
     width: 400px;
 }
+
 .content-section-two .content-wrapper-element-two .wrapper-element-texts .element-text-h3 h3 {
     font-size: 25px;
     font-weight: 400;
 }
+
 .content-section-two .content-wrapper-element-two .wrapper-element-texts .element-texts-paragraph {
     margin: 26px 0;
 }
+
+
 /* ?END WRAPPER TWO */
+
+
+
 /* ?WRAPPER THREE */
+
 .content-section-two .content-wrapper-element-three {
     display: flex;
     align-items: center;
     justify-content: center;
+   
 }
+
 .content-section-two .content-wrapper-element-three .wrapper-element-texts .element-text-h3 h3 {
     font-size: 25px;
     font-weight: 400;
 }
+
 .content-section-two .content-wrapper-element-three .wrapper-element-texts .element-texts-paragraph {
     margin: 26px 0;
 }
+
 .content-section-two .content-wrapper-element-three .element-img {
     width: 100%;
 }
+
 .content-section-two .content-wrapper-element-three .element-img img {
     width: 400px;
 }
+
 /* ?END WRAPPER THREE */
+
+
+
+
+
 /* !BY XUAN DAI */
+
 /* !CSS CODE ADD */
+
 /* ?COMMON */
 .content-section-add {
     background-color: #fff8dc;
     display: flex;
-    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     height: 900px;
 }
+
 .content-section-add .content-wrapper-element-one {
+    margin-right: 70px;
     width: 100%;
 }
+
 .content-section-add .content-wrapper-element-two {
+    margin-left: 70px;
     width: 100%;
 }
 /* ?END COMMON */
+
+
 /* ?WRAPPER ONE */
 .content-section-add .content-wrapper-element-one  .wrapper-element-one .element-img {
     width: 100%;
     text-align: center;
 }
+
 .content-section-add .content-wrapper-element-one  .wrapper-element-one .element-img img {
     width: 250px;
     text-align: center;
 }
+
 .content-section-add .content-wrapper-element-one  .wrapper-element-two .element-text-h3 h3 {
     font-size: 28px;
     font-weight: 600;
@@ -92,19 +131,24 @@
     margin-bottom: 24px;
     text-align: center;
 }
+
 .content-section-add .content-wrapper-element-one  .wrapper-element-two p {
     text-align: center;
 }
 /* ?END WRAPPER ONE */
+
+
 /* ?WRAPPER TWO */
 .content-section-add .content-wrapper-element-two  .wrapper-element-one .element-img {
     width: 100%;
     text-align: center;
 }
+
 .content-section-add .content-wrapper-element-two  .wrapper-element-one .element-img img {
     width: 250px;
     text-align: center;
 }
+
 .content-section-add .content-wrapper-element-two  .wrapper-element-two .element-text-h3 h3 {
     font-size: 28px;
     font-weight: 600;
@@ -112,9 +156,15 @@
     margin-bottom: 24px;
     text-align: center;
 }
+
 .content-section-add .content-wrapper-element-two  .wrapper-element-two p {
     text-align: center;
 }
 /* ?END WRAPPER TWO */
+
+
 /* !END CSS CODE ADD */
+
+
+
 /* !END BY XUAN DAI */
